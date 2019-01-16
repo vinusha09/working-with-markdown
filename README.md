@@ -73,6 +73,10 @@ You can also upload an image into your repo.
 
 ![vscode image](https://github.com/profcase/working-with-markdown/blob/master/vscode.PNG "Example local image")
 
+## Names
+- " vinusha "
+- "sravya"
+- " prithvi "
 ## Paragraphs
 
 Lines directly below one another will wrap into a single paragraph. 
@@ -90,9 +94,9 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+vinusha sandadi
 
-dcase@nwmissouri.edu
+s534744@nwmissouri.edu
 
 ## New Section 
 
